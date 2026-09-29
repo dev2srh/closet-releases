@@ -5,4 +5,4 @@ It holds build artifacts only - no source code and no credentials.
 
 The app polls `releases/latest/download/latest.json` for updates, so
 release assets here are read by every installed terminal without
-authentication. Source lives in the private `dev2srh/closet` repository.
+authentication.
